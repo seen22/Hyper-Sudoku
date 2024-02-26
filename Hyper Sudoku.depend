@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1614778539 source:c:\users\seen kh\desktop\hyper sudoku\soduku.cpp
+	<iostream>
+	<fstream>
+	"soduku.hpp"
+	"soduku.hpp"
+
+1614778388 c:\users\seen kh\desktop\hyper sudoku\soduku.hpp
+	<iostream>
+	<vector>
+
+1614780460 source:c:\users\seen kh\desktop\hyper sudoku\main.cpp
+	<iostream>
+	<array>
+	<vector>
+	<string>
+	"soduku.hpp"
+	"metho.hpp"
+	<iomanip>
+
+1614778549 c:\users\seen kh\desktop\hyper sudoku\metho.hpp
+	<vector>
+	<string>
+	<iostream>
+	"soduku.hpp"
+
+1614798962 source:c:\users\seen kh\desktop\hyper sudoku\metho.cpp
+	<vector>
+	<string>
+	<iostream>
+	<fstream>
+	<iomanip>
+	"metho.hpp"
+
